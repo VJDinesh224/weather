@@ -1,0 +1,66 @@
+.Card{
+
+    height: 520px;
+    width: 400px;
+    background-color: rgb(35, 4, 65);
+    color: white;
+    margin-top: 5%;
+    border-radius: 20px;
+}
+
+.Card .searchbar{
+
+ 
+   height: 40px;
+   width: 300px;
+   margin-top: 10%;
+   margin-left: 10%;
+   border-radius: 100px;
+   border: none;
+}
+
+.Card .searchbtn{
+
+    margin-left: 10px;
+    background-color:rgb(35, 4, 65);
+    color: white;
+    border: none;
+}
+
+.Card .image{
+ 
+    height: 120px;
+    width: 120px;
+    margin-top: 10%;
+   
+    border-radius: 50%;
+}
+
+.Card .weather-temp{
+
+    margin-top: 2%;
+    font-size: 60px;
+}
+
+.Card .weather-location{
+
+    margin: 0%;
+   font-size: 40px;    
+}
+
+.Card .element1{
+
+    display:inline-block;
+    margin-left: 50px;
+    margin-top: 5%;
+    font-size: 20px;
+}
+
+
+.Card .element2{
+
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 5%;
+    font-size: 20px;
+}
